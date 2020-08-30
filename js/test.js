@@ -4,4 +4,4 @@ document.getElementById("slogan").innerHTML = "We hate our customers";
 
 document.getElementById("all").style.backgroundColor = "#c7c3c3";
 
-document.style.fontFamily = "impact";
+document.body.style.fontFamily = "impact";
