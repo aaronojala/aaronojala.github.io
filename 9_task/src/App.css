@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.link {
+  color: #fff;
+}
+
+.link:hover {
+  text-decoration: none;
+  color: #fff;
+  opacity: 0.7;
+}
+
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+
+.card-group {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1rem;
+}
+
+.container {
+  margin-top: 1rem;
+}
+
+.container h1 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.desc {
+  max-width: 20rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 70vh;
+}
